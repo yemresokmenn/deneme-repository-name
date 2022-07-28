@@ -1,2 +1,2 @@
-# deneme-repository-name
-deneme description
+# ınsertion sort proje
+ınsertion sort projesi- proje-1
